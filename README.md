@@ -29,7 +29,7 @@ Obligatory "Hello World!" Program
 * other things
 * 
 
-*things
+* things
 1 things
 2. things
 3. things again.
