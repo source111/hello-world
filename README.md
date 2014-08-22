@@ -9,3 +9,4 @@ Obligatory "Hello World!" Program
 
 * holy cow that was easy!
 * is this also easy?
+* it's kind of easy.
